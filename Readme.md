@@ -12,5 +12,3 @@ Izmenite index.md i otvorite pull request.
 |HeartCount|Software za pracenje zadovoljstva zaposlenih|HearthCount|https://www.heartcount.com/|HR|✔️|
 |ActiveCollab|Software za upravljanje projektom|A51|https://activecollab.com/|Menadžment|✔️|
 
-
-https://activecollab.com/
