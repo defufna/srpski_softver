@@ -14,3 +14,4 @@ Forkujte [Github repozitorijum](https://github.com/defufna/srpski_softver), izme
 |The Cub|Video igra, postapokalpticna platforma|Demagog studio|<https://demagogstudio.com/The-Cub>|Video igra|✔️|
 |Elemental Kids|Platforma za upravljanje dečijim ustanovama|Elemental Tech|<https://www.elemental-kids.com/>|Obrazovanje|✔️|
 |ASCA|Softver za fizičku kontrolu pristupa|Trinity Smart IT|<http://www.trinitysmartit.com/products/asca/>|Physical security|✔️|
+|ADMS|Napredni sistem za upravljanje distributivnom mrežom|SchneiderElectric|<https://www.se.com/rs/sr/work/solutions/for-business/electric-utilities/advanced-distribution-management-system-adms/>|Energy||
