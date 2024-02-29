@@ -15,9 +15,9 @@ Forkujte [Github repozitorijum](https://github.com/defufna/srpski_softver), izme
 |Elemental Kids|Platforma za upravljanje dečijim ustanovama|Elemental Tech|<https://www.elemental-kids.com/>|Obrazovanje|✔️|
 |ASCA|Softver za fizičku kontrolu pristupa|Trinity Smart IT|<http://www.trinitysmartit.com/products/asca/>|Physical security|✔️|
 |ADMS|Napredni sistem za upravljanje distributivnom mrežom|SchneiderElectric|<https://www.se.com/rs/sr/work/solutions/for-business/electric-utilities/advanced-distribution-management-system-adms/>|Energy||
-|Publitio|Video and Image delivery|Publitio|https://publit.io/|Media|✔️|
-|Plaky|Project management and tracking|Cake|https://plaky.com/|Media||
-|Pumble|Chat application|Cake|https://pumble.com/|Media||
-|Clockify|Time tracking application|Cake|https://clockify.me/|Media||
-|Semaphore|CI & CD|Render Text|https://semaphoreci.com/|Tehnology||
-
+|Publitio|Video and Image delivery|Publitio|<https://publit.io/>|Media|✔️|
+|Plaky|Project management and tracking|Cake|<https://plaky.com/>|Media||
+|Pumble|Chat application|Cake|<https://pumble.com/>|Media||
+|Clockify|Time tracking application|Cake|<https://clockify.me/>|Media||
+|Semaphore|CI & CD|Render Text|<https://semaphoreci.com/>|Tehnology||
+|Kadrovska|Softverska platforma namenjena firmama koje žele da digitalizuju rad svoje HR administracije|JN&AN NIKOLIĆ CONSULTING|<https://www.kadrovska.app/>|HR|✔️|
