@@ -21,4 +21,4 @@ Forkujte [Github repozitorijum](https://github.com/defufna/srpski_softver), izme
 |Clockify|Time tracking application|Cake|<https://clockify.me/>|Media||
 |Semaphore|CI & CD|Render Text|<https://semaphoreci.com/>|Tehnology||
 |Kadrovska|Softverska platforma namenjena firmama koje žele da digitalizuju rad svoje HR administracije|JN&AN NIKOLIĆ CONSULTING|<https://www.kadrovska.app/>|HR|✔️|
-|Glog AI|Alat za automatsko pronalaženje sigurnosnih propusta u kodu|Glog AI|[https://www.glog.ai/](https://www.glog.ai/)|Software security|✔️|
+|Glog AI|Alat za automatsko pronalaženje sigurnosnih propusta u kodu|Glog AI|<https://www.glog.ai>)|Software security|✔️|
